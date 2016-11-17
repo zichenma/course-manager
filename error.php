@@ -17,7 +17,7 @@
     </main>
 
     <footer>
-        <p>&copy; <?php echo date("Y"); ?> My Guitar Shop, Inc.</p>
+        <p>&copy; <?php echo date("Y"); ?> Zichen Ma</p>
     </footer>
 </body>
 </html>
